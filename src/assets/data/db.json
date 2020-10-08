@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "categoryId": 1,
+      "productName": "Polo Party Tshirt",
+      "description": "Product description goes here",
+      "rating": 4,
+      "productImg": "http://localhost:4200/assets/images/pt2.jpeg",
+      "price": 400,
+      "isAvailable": true,
+      "color": "red",
+      "reviews": 10
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "productName": "Polo Casual Tshirt",
+      "description": "Product description goes here",
+      "rating": 4,
+      "productImg": "http://localhost:4200/assets/images/pt3.jpg",
+      "price": 400,
+      "isAvailable": true,
+      "color": "red",
+      "reviews": 10
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "productName": "Polo Sleve Tshirt",
+      "description": "Product description goes here",
+      "rating": 4,
+      "productImg": "http://localhost:4200/assets/images/pt4.png",
+      "price": 400,
+      "isAvailable": true,
+      "color": "red",
+      "reviews": 10
+    },
+    {
+      "id": 5,
+      "categoryId": 3,
+      "productName": "Casual Shirt",
+      "description": "Product description goes here",
+      "rating": 4,
+      "productImg": "http://localhost:4200/assets/images/as1.jpg",
+      "price": 400,
+      "isAvailable": true,
+      "color": "red",
+      "reviews": 10
+    },
+    {
+      "id": 6,
+      "categoryId": 3,
+      "productName": "Party Shirt",
+      "description": "Product description goes here",
+      "rating": 4,
+      "productImg": "http://localhost:4200/assets/images/as2.jpg",
+      "price": 400,
+      "isAvailable": true,
+      "color": "red",
+      "reviews": 10
+    },
+    {
+      "id": 7,
+      "categoryId": 2,
+      "productName": "Yellow Soccer Tshirt",
+      "description": "Product description goes here",
+      "rating": 4,
+      "productImg": "http://localhost:4200/assets/images/st1.jpg",
+      "price": 400,
+      "isAvailable": true,
+      "color": "red",
+      "reviews": 10
+    },
+    {
+      "id": 8,
+      "categoryId": 2,
+      "productName": "Emirates Soccer Tshirt",
+      "description": "Product description goes here",
+      "rating": 4,
+      "productImg": "http://localhost:4200/assets/images/st2.jpg",
+      "price": 400,
+      "isAvailable": true,
+      "color": "red",
+      "reviews": 10
+    },
+    {
+      "id": 9,
+      "categoryId": 2,
+      "productName": "Inglec Soccer Tshirt",
+      "description": "Product description goes here",
+      "rating": 4,
+      "productImg": "http://localhost:4200/assets/images/st3.jpg",
+      "price": 400,
+      "isAvailable": true,
+      "color": "red",
+      "reviews": 10
+    },
+    {
+      "id": 10,
+      "categoryId": 2,
+      "productName": "Red Soccer Tshirt",
+      "description": "Product description goes here",
+      "rating": 4,
+      "productImg": "http://localhost:4200/assets/images/st4.jpg",
+      "price": 400,
+      "isAvailable": true,
+      "color": "red",
+      "reviews": 10
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Polo Tshirts"
+    },
+    {
+      "id": 2,
+      "categoryName": "Soccer Tshirts"
+    },
+    {
+      "id": 3,
+      "categoryName": "Shirts"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
